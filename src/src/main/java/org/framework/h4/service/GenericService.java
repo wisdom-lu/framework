@@ -17,9 +17,9 @@ import org.springframework.transaction.annotation.Transactional;
  *
  * <p>Description: </p>
  *
- * <p>Copyright: Copyright (c) 2012 Wafer (XA'AN) Systems Co., Ltd. All rights reserved.</p>
+ * <p>Copyright: Copyright (c) 2012 Framework Systems Co., Ltd. All rights reserved.</p>
  *
- * <p>Company: Wafersystems</p>
+ * <p>Company: Framework</p>
  *
  * @author Mou Lu
  * @Date：Feb 26, 2014 2:26:09 PM

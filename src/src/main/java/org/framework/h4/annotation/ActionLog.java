@@ -2,8 +2,8 @@
  * @(#)ActionLog.java V1.0 2013-11-14 下午05:14:52
  * @ org.framework.annotation
  *
- * Copyright (c) 2013, Wafersystems All rights reserved.
- * Wafer PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
+ * Copyright (c) 2013, Framework All rights reserved.
+ * Framework PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
  */
 
 package org.framework.h4.annotation;
@@ -18,9 +18,9 @@ import java.lang.annotation.Target;
  *
  * <p>Description: </p>
  *
- * <p>Copyright: Copyright (c) 2012 Wafer (XA'AN) Systems Co., Ltd. All rights reserved.</p>
+ * <p>Copyright: Copyright (c) 2012 Framework Systems Co., Ltd. All rights reserved.</p>
  *
- * <p>Company: Wafersystems</p>
+ * <p>Company: Framework</p>
  *
  * @author Mou Lu
  * @Date：2013-11-14 下午05:14:52

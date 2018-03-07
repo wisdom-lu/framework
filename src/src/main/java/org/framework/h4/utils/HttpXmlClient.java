@@ -1,6 +1,6 @@
 /*
- * Copyright (c) 2012,Wafer All rights reserved.
- * WAFER PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
+ * Copyright (c) 2012,Framework All rights reserved.
+ * Framework PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
  */
 
 package org.framework.h4.utils;
@@ -40,7 +40,7 @@ import sun.misc.BASE64Encoder;
  * @Edit Date：
  * @Edit Desc：
  *
- * @Company：Wafersystems
+ * @Company：Framework
  * @Author：Mou Lu
  * @Date：2012-7-9 上午11:20:32
  * @Version：V 1.0

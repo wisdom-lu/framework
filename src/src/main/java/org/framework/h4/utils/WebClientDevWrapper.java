@@ -20,7 +20,7 @@ import org.apache.http.impl.client.DefaultHttpClient;
  * @Edit Date：
  * @Edit Desc：
  *
- * @Company：Wafersystems
+ * @Company：Framework
  * @Author：Mou Lu
  * @Date：2012-7-9 下午05:00:36
  * @Version：V 1.0

@@ -3,12 +3,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.framework.h4</groupId>
-	<artifactId>wifi-framework</artifactId>
+	<artifactId>framework</artifactId>
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
-	<name>wifi-framework</name>
-	<url>http://smartap.wafersystems.com</url>
+	<name>framework</name>
+	<url>http://framework.github.com</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

@@ -2,8 +2,8 @@
  * @(#)ResourceMsg.java V1.0 Feb 25, 2014 9:32:25 AM
  * @ com.wafersystems.lbs.utils
  *
- * Copyright (c) 2013, Wafersystems All rights reserved.
- * Wafer PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
+ * Copyright (c) 2013, Framework All rights reserved.
+ * Framework PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
  */
 
 package org.framework.h4.utils;
@@ -21,9 +21,9 @@ import org.springframework.web.servlet.support.RequestContext;
  *
  * <p>Description: </p>
  *
- * <p>Copyright: Copyright (c) 2012 Wafer (XA'AN) Systems Co., Ltd. All rights reserved.</p>
+ * <p>Copyright: Copyright (c) 2012 Framework Systems Co., Ltd. All rights reserved.</p>
  *
- * <p>Company: Wafersystems</p>
+ * <p>Company: Framework</p>
  *
  * @author Mou Lu
  * @Date：Feb 25, 2014 9:32:25 AM

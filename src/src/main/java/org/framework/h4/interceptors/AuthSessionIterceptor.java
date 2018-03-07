@@ -1,9 +1,9 @@
 /*  
  * @(#)AuthSessionIterceptor.java V1.0 May 13, 2014 10:54:28 AM
- * @ com.wafersystems.wificloud.auth.interceptors
+ * 
  *
- * Copyright (c) 2013, Wafersystems All rights reserved.
- * Wafer PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
+ * Copyright (c) 2013, Framework All rights reserved.
+ * Framework PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
  */
 
 package org.framework.h4.interceptors;
@@ -21,9 +21,9 @@ import org.springframework.web.servlet.ModelAndView;
  *
  * <p>Description: </p>
  *
- * <p>Copyright: Copyright (c) 2012 Wafer (XA'AN) Systems Co., Ltd. All rights reserved.</p>
+ * <p>Copyright: Copyright (c) 2012 Framework Systems Co., Ltd. All rights reserved.</p>
  *
- * <p>Company: Wafersystems</p>
+ * <p>Company: Framework</p>
  *
  * @author Mou Lu
  * @Date：May 13, 2014 10:54:28 AM

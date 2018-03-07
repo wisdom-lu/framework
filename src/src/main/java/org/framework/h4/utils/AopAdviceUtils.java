@@ -2,8 +2,8 @@
  * @(#)AopAdviceUtils.java V1.0 2013-11-15 上午09:20:06
  * @ org.framework.util
  *
- * Copyright (c) 2013, Wafersystems All rights reserved.
- * Wafer PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
+ * Copyright (c) 2013, Framework All rights reserved.
+ * Framework PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
  
 
 package org.framework.h4.utils;
@@ -26,9 +26,9 @@ import org.springframework.stereotype.Service;
  *
  * <p>Description: </p>
  *
- * <p>Copyright: Copyright (c) 2012 Wafer (XA'AN) Systems Co., Ltd. All rights reserved.</p>
+ * <p>Copyright: Copyright (c) 2012 Framework Systems Co., Ltd. All rights reserved.</p>
  *
- * <p>Company: Wafersystems</p>
+ * <p>Company: Framework</p>
  *
  * @author Mou Lu
  * @Date：2013-11-15 上午09:20:06

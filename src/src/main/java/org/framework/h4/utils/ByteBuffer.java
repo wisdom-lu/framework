@@ -2,8 +2,8 @@
  * @(#)ByteBuffer.java V1.0 2013-11-18 下午04:57:10
  * @ org.framework.util
  *
- * Copyright (c) 2013, Wafersystems All rights reserved.
- * Wafer PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
+ * Copyright (c) 2013, Framework All rights reserved.
+ * Framework PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
  */
 package org.framework.h4.utils;
 
@@ -20,12 +20,12 @@ import java.io.UnsupportedEncodingException;
  * </p>
  * 
  * <p>
- * Copyright: Copyright (c) 2012 Wafer (XA'AN) Systems Co., Ltd. All rights
+ * Copyright: Copyright (c) 2012 Framework Systems Co., Ltd. All rights
  * reserved.
  * </p>
  * 
  * <p>
- * Company: Wafersystems
+ * Company: Framework
  * </p>
  * 
  * @author Mou Lu
